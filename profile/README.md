@@ -1,8 +1,10 @@
 # crate.lol
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/crate-lol/.github/refs/heads/main/images/intro.png" alt="Crate Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/crate-lol/.github/refs/heads/main/images/crate-new.png" alt="Crate Banner" width="100%" />
 </div>
+
+##
 
 Build powerful AI agents through an intuitive drag-and-drop interface. crate.lol makes it easy to create, customize and deploy AI agents without writing code.
 
