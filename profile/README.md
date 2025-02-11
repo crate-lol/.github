@@ -32,9 +32,20 @@ The visual editor allows you to drag and drop different types of blocks:
 - **Logic Blocks**: Control the flow of your agent's decision making
 - **Integration Blocks**: Connect with external services
 
-![Integration Block Editor](https://github.com/crate-lol/.github/raw/refs/heads/main/images/1.png)
-![Integration Block Editor](https://raw.githubusercontent.com/crate-lol/.github/refs/heads/main/images/2.png)
-![Integration Block Editor](https://raw.githubusercontent.com/crate-lol/.github/refs/heads/main/images/3.png)
+## Visual Guide
+
+Here's how to edit and configure integration blocks:
+
+<div align="center">
+  <img src="https://github.com/crate-lol/.github/raw/refs/heads/main/images/1.png" alt="Step 1" width="80%" />
+  <p><em>Step 1: Select your integration block</em></p>
+
+  <img src="https://raw.githubusercontent.com/crate-lol/.github/refs/heads/main/images/2.png" alt="Step 2" width="80%" />
+  <p><em>Step 2: Configure the integration settings</em></p>
+
+  <img src="https://raw.githubusercontent.com/crate-lol/.github/refs/heads/main/images/3.png" alt="Step 3" width="80%" />
+  <p><em>Step 3: Connect your integration</em></p>
+</div>
 
 ### 2. Configure Your Blocks
 
