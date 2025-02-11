@@ -117,10 +117,6 @@ For detailed documentation, visit our [docs site](https://crate.lol/docs)
 - API Documentation
 - SDK Guide
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ```bash
 # Clone the repository
 git clone https://github.com/crate-lol/crate
@@ -132,10 +128,6 @@ npm install
 # Run development server
 npm run dev
 ```
-
-## License
-
-crate.lol is licensed under the [MIT License](LICENSE)
 
 ## Support
 
