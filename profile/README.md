@@ -1,8 +1,8 @@
 # crate.lol
 
-<p align="center">
-  <img src="path/to/logo.png" alt="crate.lol logo" width="200"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/crate-lol/.github/refs/heads/main/images/223.jpeg" alt="Alone Labs Banner" width="100%" />
+</div>
 
 Build powerful AI agents through an intuitive drag-and-drop interface. crate.lol makes it easy to create, customize and deploy AI agents without writing code.
 
